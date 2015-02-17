@@ -1,5 +1,5 @@
 # Barista_Drinks_cpp
-#This project implements a "Abstract Factory Pattern":
+#"Abstract Factory Pattern":
   -The sorting (barista) algorithms can be used for
    any of the OrderList classes which contain a vector of 
    different Drinks (either BubbleTea or OrangeJuice)
@@ -7,10 +7,10 @@
    base classes
   -The focus of this project was to use the design pattern
    and to think about the following principles while working:
-      -Rigor and formality
-      -Separation of concerns
-      -Modularity
-      -Abstraction
-      -Anticipation of Change
-      -Generality
-      -Incrementality
+      *Rigor and formality
+      *Separation of concerns
+      *Modularity
+      *Abstraction
+      *Anticipation of Change
+      *Generality
+      *Incrementality
