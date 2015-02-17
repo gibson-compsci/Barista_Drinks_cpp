@@ -78,6 +78,7 @@ public:
 /***************************** Barista End ************************************/
 
 /***************************** CoolBarista ************************************/
+	//CoolBarista sorts the Drinks by the name of the customer
 class CoolBarista:public Barista{
 public:
     CoolBarista();
@@ -89,6 +90,7 @@ public:
 /*************************** CoolBarista End **********************************/
 
 /**************************** NewbieBarista ***********************************/
+	//NewbieBarista sorts the Drinks by the size of the drink
 class NewbieBarista:public Barista{
 public:
     NewbieBarista();
