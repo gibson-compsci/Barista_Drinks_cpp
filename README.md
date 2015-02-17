@@ -6,7 +6,7 @@
   -This is accomplished by using inheritance and abstract
    base classes
   -The focus of this project was to use the design pattern
-   and to think about the following principles while working:
+   and to think about the following principles while designing:
       *Rigor and formality
       *Separation of concerns
       *Modularity
